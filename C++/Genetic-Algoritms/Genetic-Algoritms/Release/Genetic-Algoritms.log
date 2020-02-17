@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\xiaomi\desktop\ga_py\genetic-algoritms\genetic-algoritms\genetic-algoritms\main.cpp(705): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\desktop\ga_py\genetic-algoritms\genetic-algoritms\genetic-algoritms\main.cpp(711): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\desktop\ga_py\genetic-algoritms\genetic-algoritms\genetic-algoritms\main.cpp(743): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+c:\users\xiaomi\desktop\ga_py\genetic-algoritms\genetic-algoritms\genetic-algoritms\main.cpp(217): warning C4172: возвращение адреса локальной или временной переменной : new_color
+  All 157 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Genetic-Algoritms.vcxproj -> C:\Users\XIAOMi\Desktop\GA_PY\Genetic-Algoritms\Genetic-Algoritms\Release\Genetic-Algoritms.exe
